@@ -151,4 +151,13 @@ form button:hover{
     
     
     
-}
+ }
+ @media screen and (max-width: 600px){
+    .close{
+    font-size: 3rem;
+    position: absolute;
+    top: 0;
+    left: 88%;
+    }
+    
+ }
